@@ -32,7 +32,7 @@ Before we begin, the following is a work in progress project philosophy to help 
    2. Can you pay someone to do it better, or cheaper?  Value your team's time?
 1. **The longer your survive, the more operational impact trumps all**.
    2. The more mature your company becomes, the more the your technical choices must be driven by operation.
-      3. Make as many ops problem as possible not your problem.
+      * Make as many ops problem as possible not your problem.
    2. Celebrate the engineer who remove code, deprecate, and refactor, as much as those who add features.
 
 ## Coding guide lines
