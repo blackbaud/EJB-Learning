@@ -2,7 +2,7 @@
 A scratch repo of artifacts created during the learning of Java and EJB that leads to NO final destination.
 
 # Philosophy
-Before we begin, the following is a work in progress project philosophy to help guide our decision making.  First and for most, this project is to learn the new/latest technology stack to build **enterprise** class software guided by the presentation made by Paul Gibson during our RDO all-hands.  Here is the referenced https://www.oreilly.com/ideas/a-young-ladys-illustrated-primer-to-technical-decision-making.  If you don't have the time to view the video, here is the general take away:
+Before we begin, the following is a work in progress project philosophy to help guide our decision making.  First and for most, this project is to learn the new/latest technology stack to build **enterprise** class software guided by the presentation made by Paul Gibson during our RDO all-hands.  Here is the referenced [link](https://www.oreilly.com/ideas/a-young-ladys-illustrated-primer-to-technical-decision-making).  If you don't have the time to view the video, here is the general take away:
 
 * Complexity is increasing.
 * Lots of innovation and excitement but with increased complexity.  She refer it to the "**Cambrian explosion of technical complexity**".
