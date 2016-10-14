@@ -8,16 +8,16 @@ Before we begin, the following is a work in progress project philosophy to help 
 * Lots of innovation and excitement but with increased complexity.  She refer it to the "**Cambrian explosion of technical complexity**".
 * She provided 6 tips of making better technical decisions.
 
-  1. **Technology serves the mission**.  We do not build tech for the sake of tech.
-    2. Software is the enemy.
-      3. Every piece of software adds fragility and points of failure
-      3. Everything you write will need to be maintained and debugged.
-      3. It is easy to add software, and hard to remove it.
-    2. Can we do more with less tech?
-  1. **Reuse solutions**. Resist software sprawl.
-    2. Can you solve your problem with your existing tools?
-    2. Optimize globally and not locally.
-      * If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
+1. **Technology serves the mission**.  We do not build tech for the sake of tech.
+  2. Software is the enemy.
+    3. Every piece of software adds fragility and points of failure
+    3. Everything you write will need to be maintained and debugged.
+    3. It is easy to add software, and hard to remove it
+  2. Can we do more with less tech?
+1. **Reuse solutions**. Resist software sprawl.
+  2. Can you solve your problem with your existing tools?
+  2. Optimize globally and not locally.
+    * If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
 1. **Create friction for adding new stuff**.  Have a gating process for major new components.
    2. What is the relative gain?
    2. Manufacture friction if necessary
