@@ -35,6 +35,8 @@ Before we begin, the following is a work in progress project philosophy to help 
       * Make as many ops problem as possible not your problem.
    2. Celebrate the engineer who remove code, deprecate, and refactor, as much as those who add features.
 
+# Our values
+
 ## Coding guide lines
 These are just guide-lines and the first starting point.  They are not intended to be rigid and need to be adapted to the project.
 http://geosoft.no/development/javastyle.html
