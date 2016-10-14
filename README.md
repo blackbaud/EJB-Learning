@@ -17,7 +17,7 @@ Before we begin, the following is a work in progress project philosophy to help 
 1. **Reuse solutions**. Resist software sprawl.
   2. Can you solve your problem with your existing tools?
   2. Optimize globally and not locally.
-    * If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
+    - If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
 1. **Create friction for adding new stuff**.  Have a gating process for major new components.
    2. What is the relative gain?
    2. Manufacture friction if necessary
@@ -33,7 +33,7 @@ Before we begin, the following is a work in progress project philosophy to help 
    2. Can you pay someone to do it better, or cheaper?  Value your team's time?
 1. **The longer your survive, the more operational impact trumps all**.
    2. The more mature your company becomes, the more the your technical choices must be driven by operation.
-      * Make as many ops problem as possible not your problem.
+      - Make as many ops problem as possible not your problem.
    2. Celebrate the engineer who remove code, deprecate, and refactor, as much as those who add features.
 
 # Our values
