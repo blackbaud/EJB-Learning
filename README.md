@@ -38,6 +38,11 @@ Before we begin, the following is a work in progress project philosophy to help 
 # Our values
 
 # Technology of interest to us
+1. Enterprise Java Bean 3.2 or latest.
+2. Docker containers.
+3. PostgreSQL relational database.
+4. NoSQL for unstructured pile of data.
+
 
 ## Coding guide lines
 These are just guide-lines and the first starting point.  They are not intended to be rigid and need to be adapted to the project.
