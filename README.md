@@ -7,6 +7,7 @@ Before we begin, the following is a work in progress project philosophy to help 
 * Complexity is increasing.
 * Lots of innovation and excitement but with increased complexity.  She refer it to the "**Cambrian explosion of technical complexity**".
 * She provided 6 tips of making better technical decisions.
+
   1. **Technology serves the mission**.  We do not build tech for the sake of tech.
     2. Software is the enemy.
       3. Every piece of software adds fragility and points of failure
