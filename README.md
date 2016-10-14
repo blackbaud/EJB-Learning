@@ -12,7 +12,8 @@ Before we begin, the following is a work in progress project philosophy to help 
     3. Every piece of software adds fragility and points of failure
     3. Everything you write will need to be maintained and debugged.
     3. It is easy to add software, and hard to remove it.
-1. **Reuse solutions**. Resist software sprawl
+   2. Can we do more with less tech?
+1. **Reuse solutions**. Resist software sprawl.
    2. Can you solve your problem with your existing tools?
    2. Optimize globally and not locally.
       * If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
