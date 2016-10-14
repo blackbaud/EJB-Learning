@@ -37,6 +37,8 @@ Before we begin, the following is a work in progress project philosophy to help 
 
 # Our values
 
+# Technology of interest to us
+
 ## Coding guide lines
 These are just guide-lines and the first starting point.  They are not intended to be rigid and need to be adapted to the project.
 http://geosoft.no/development/javastyle.html
