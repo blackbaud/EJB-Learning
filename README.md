@@ -51,3 +51,6 @@ The above guideline is a good starting point but by no means it is immutable.  W
 ## Coding guide lines
 These are just guide-lines and the first starting point.  They are not intended to be rigid and need to be adapted to the project.
 http://geosoft.no/development/javastyle.html
+
+## Links
+https://www.youtube.com/watch?v=iJVW7v8O9BU
