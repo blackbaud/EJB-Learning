@@ -1,4 +1,4 @@
-# EJB-Learning
+# Java-EE7-Learning
 A scratch repo of artifacts created during the learning of Java EE 7 and EJB that leads to NO final destination.
 
 # Philosophy
