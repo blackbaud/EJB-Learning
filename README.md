@@ -1,5 +1,5 @@
 # EJB-Learning
-A scratch repo of artifacts created during the learning of Java and EJB that leads to NO final destination.
+A scratch repo of artifacts created during the learning of Java EE 7 and EJB that leads to NO final destination.
 
 # Philosophy
 Before we begin, the following is a work in progress project philosophy to help guide our decision making.  First and for most, this project is to learn the new/latest technology stack to build **enterprise** class software guided by the presentation made by Paul Gibson during our RDO all-hands.  Here is the referenced [link](https://www.oreilly.com/ideas/a-young-ladys-illustrated-primer-to-technical-decision-making).  If you don't have the time to view the video, the following is the general take away:
@@ -41,7 +41,7 @@ The above guideline is a good starting point but by no means it is immutable.  W
 # Our values
 
 # Technology of interest to us
-1. Enterprise Java Bean 3.2 or latest.
+1. Java EE 7 (Enterprise Java Bean 3.2) or latest.
 2. Docker containers.
 3. PostgreSQL relational database.
 4. NoSQL for unstructured pile of data.
