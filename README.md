@@ -53,4 +53,4 @@ These are just guide-lines and the first starting point.  They are not intended 
 http://geosoft.no/development/javastyle.html
 
 ## Links
-https://www.youtube.com/watch?v=iJVW7v8O9BU
+https://www.youtube.com/watch?v=iJVW7v8O9BU https://dzone.com/refcardz/fetting-started-with-microservices
