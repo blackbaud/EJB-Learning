@@ -10,9 +10,9 @@ Before we begin, the following is a work in progress project philosophy to help 
 
 1. **Technology serves the mission**.  We do not build tech for the sake of tech.
   2. Software is the enemy.
-    - Every piece of software adds fragility and points of failure
+    - Every piece of software adds fragility and points of failure.
     - Everything you write will need to be maintained and debugged.
-    - It is easy to add software, and hard to remove it
+    - It is easy to add software, and hard to remove it.
   2. Can we do more with less tech?
 1. **Reuse solutions**. Resist software sprawl.
   2. Can you solve your problem with your existing tools?
@@ -20,12 +20,12 @@ Before we begin, the following is a work in progress project philosophy to help 
     - If you pick the perfect tool/solution for every local problem, you will have an unmanageable mess.
 1. **Create friction for adding new stuff**.  Have a gating process for major new components.
    2. What is the relative gain?
-   2. Manufacture friction if necessary
+   2. Manufacture friction if necessary.
    2. Don't micro manage outside the critical path.  Need room to experiment.
 1. **Choose boring technology**.  Boring software runs the world.
    2. Failure modes are well understood.
-   2. Rich library support for languages
-   2. For databases, extensive production hardening
+   2. Rich library support for languages.
+   2. For databases, extensive production hardening.
    2. Tooling and support for observability and debugging.
 1. **Spend your risk currency on key differentiators**.  Understand your appetite for risk.
    2. Early startup have massively greater tolerance for risk.
@@ -53,4 +53,5 @@ These are just guide-lines and the first starting point.  They are not intended 
 http://geosoft.no/development/javastyle.html
 
 ## Links
-https://www.youtube.com/watch?v=iJVW7v8O9BU https://dzone.com/refcardz/fetting-started-with-microservices
+https://www.youtube.com/watch?v=iJVW7v8O9BU 
+https://dzone.com/refcardz/fetting-started-with-microservices
