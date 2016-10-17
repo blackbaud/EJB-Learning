@@ -1,5 +1,5 @@
 # Java-EE7-Learning
-A scratch repo of artifacts created during the learning of Java EE 7 and EJB that leads to NO final destination.
+A scratch repo of artifacts created during the learning of Java EE 7 and EJB that leads to **NO** final destination.  This is primarily to support learning and not any particular production systems.
 
 # Philosophy
 Before we begin, the following is a work in progress project philosophy to help guide our decision making.  First and for most, this project is to learn the new/latest technology stack to build **enterprise** class software guided by the presentation made by Paul Gibson during our RDO all-hands.  Here is the referenced [link](https://www.oreilly.com/ideas/a-young-ladys-illustrated-primer-to-technical-decision-making).  If you don't have the time to view the video, the following is the general take away:
