@@ -61,6 +61,7 @@ The following are our prioritized values.  A lower priority can trump over a hig
       3. Proven solutions. See [The Java EE 7 Technologies](http://stackoverflow.com/questions/37082364/a-summary-of-all-java-ee-specifications)
       3. Stay away from the infra-structure space.  Use want is already build out the box.
    2. Larger community support.
+      3. The community stay on top development and patches.
    2. Code to industry specification and **not** vendor specific APIs.
       3. *Less* vendor lock in.
 1. Docker containers.
