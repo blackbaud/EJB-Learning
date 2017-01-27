@@ -62,6 +62,7 @@ The following are our prioritized values.  A lower priority can trump over a hig
       3. Stay away from the infra-structure space.  Use want is already build out the box.
    2. Larger community support.
    2. Code to industry specification and **not** vendor specific APIs.
+   2. *Less* vendor lock in.
 1. Docker containers.
 1. PostgreSQL relational database.
 1. NoSQL for unstructured pile of data.
