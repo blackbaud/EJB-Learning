@@ -41,23 +41,32 @@ The above guideline is a good starting point but by no means it is immutable.  W
 # Our values
 The following are our prioritized values.  A lower priority can trump over a higher priority value if is offers at least a "10" percentage value.  For example, if we cannot save at least 10% in cost, the other priorities need to be considered first.  This is a very subjective number but a hint to guide us not to sweat of the little gains/losses during prioritization.
 
+1. Security
+   2. Reputation
 1. Stability
    2. Quality
 1. Simplicity
    2. Supportability
+   2. User experience
 1. Scalability
    2. Performance (How fast is fast enough? Fast enough is good enough!)
+   2. Load handling
 1. Development velocity
 1. Future-proofing (keeping interfaces clean to enable component-level refactoring)
 1. Cost (operating costs less important than overhead costs)
 
 # Technology of interest to us
 1. Java EE 7 (Enterprise Java Bean 3.2) or latest.
-2. Docker containers.
-3. PostgreSQL relational database.
-4. NoSQL for unstructured pile of data.
-5. Distributed systems in the cloud.
-6. Data visualization.
+   2. Leverage pre-build sub-systems.
+      3. Proven solutions. http://stackoverflow.com/questions/37082364/a-summary-of-all-java-ee-specifications
+      3. Stay away from the infra-structure space.  Use want is already build out the box.
+   2. Larger community support.
+   2. Code to industry specification and **not** vendor specific APIs.
+1. Docker containers.
+1. PostgreSQL relational database.
+1. NoSQL for unstructured pile of data.
+1. Distributed systems in the cloud.
+1. Data visualization.
 
 ## Coding guide lines
 These are just guide-lines and the first starting point.  They are not intended to be rigid and need to be adapted to the project.
