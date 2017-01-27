@@ -58,7 +58,7 @@ The following are our prioritized values.  A lower priority can trump over a hig
 # Technology of interest to us
 1. Java EE 7 (Enterprise Java Bean 3.2) or latest.
    2. Leverage pre-build sub-systems.
-      3. Proven solutions. http://stackoverflow.com/questions/37082364/a-summary-of-all-java-ee-specifications
+      3. Proven solutions. [Java EE Summary](http://stackoverflow.com/questions/37082364/a-summary-of-all-java-ee-specifications)
       3. Stay away from the infra-structure space.  Use want is already build out the box.
    2. Larger community support.
    2. Code to industry specification and **not** vendor specific APIs.
