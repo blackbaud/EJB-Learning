@@ -39,7 +39,17 @@ Before we begin, the following is a work in progress project philosophy to help 
 The above guideline is a good starting point but by no means it is immutable.  We have to taylor the suggestions to our situation.
 
 # Our values
-The following are our prioritized values.
+The following are our prioritized values.  A lower priority can trump over a higher priority value if is offers at least a "10" percentage value.  For example, if we cannot save at least 10% in cost, the other priorities need to be considered first.  This is a very subjective number but a hint to guide us not to sweat of the little gains/losses during prioritization.
+
+1. Stability
+   2. Quality
+1. Simplicity
+   2. Supportability
+1. Scalability
+   2. Performance (How fast is fast enough? Fast enough is good enough!)
+1. Development velocity
+1. Future-proofing (keeping interfaces clean to enable component-level refactoring)
+1. Cost (operating costs less important than overhead costs)
 
 # Technology of interest to us
 1. Java EE 7 (Enterprise Java Bean 3.2) or latest.
